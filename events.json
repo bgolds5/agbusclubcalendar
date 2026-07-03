@@ -143,8 +143,8 @@
   },
   {
     "title": "Fall & Halloween Theme - Arts & Crafts Night",
-    "date": "2026-09-22",
-    "endDate": "2026-09-22",
+    "date": "2026-09-15",
+    "endDate": "2026-09-15",
     "time": "16:30",
     "category": "meeting",
     "location": "Food Lab - Ms. Judy's",
@@ -242,6 +242,21 @@
     "date": "2026-08-21",
     "category": "deadline",
     "notes": "Assigned to Jordan",
+    "by": "Ben"
+  },
+  {
+    "title": "Career Prep Week",
+    "date": "2026-09-21",
+    "endDate": "2026-09-25",
+    "category": "academic",
+    "notes": "NO EVENTS",
+    "by": "Ben"
+  },
+  {
+    "title": "AFA Leaders Conference",
+    "date": "2026-11-09",
+    "endDate": "2026-11-15",
+    "category": "external",
     "by": "Ben"
   }
 ]
