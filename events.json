@@ -148,7 +148,7 @@
     "time": "16:30",
     "category": "meeting",
     "location": "Food Lab - Ms. Judy's",
-    "notes": "- 10 min: Club Catchup\n- 90 min: Craft Night\n- 20 min: Cleanup",
+    "notes": "- 10 min: Club Catchup\n- 90 min: Craft Night\n- 20 min: Cleanup\n\nRevenue Generating Event",
     "by": "Ben"
   },
   {
@@ -215,7 +215,7 @@
   {
     "title": "Volunteer at some point",
     "date": "2026-11-17",
-    "category": "meeting",
+    "category": "external",
     "location": "TBD",
     "notes": "TBD",
     "by": "Ben"
@@ -262,7 +262,7 @@
   {
     "title": "LWCC Event",
     "date": "2026-10-27",
-    "category": "social",
+    "category": "external",
     "by": "Ben"
   }
 ]
